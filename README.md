@@ -5,7 +5,6 @@ This repository contains a functional replica of the COMPASS system, an AI-power
 The core of this project is a sophisticated **Retrieval-Augmented Generation (RAG)** pipeline that analyzes customer profiles to identify and justify the next best product recommendation, demonstrating a powerful approach to data-driven customer relationship management.
 
 ![Streamlit App Screenshot](https://github.com/code2ashish/-COMPASS-Customer-Opportunity-Mapping/blob/main/Screenshot.png) 
-*Note: Run the app, take a nice screenshot, upload it to this repo, and replace the placeholder link above.*
 
 ---
 
