@@ -1,0 +1,57 @@
+Product: High-Yield Savings Account
+Description: A premium online savings account offering an interest rate up to 20x the national average. It's designed for customers focused on maximizing growth for their liquid cash reserves. There are no monthly maintenance fees for balances over $10,000, and it includes tools for setting and tracking savings goals.
+Ideal Customer Profile: Best for customers with a high account balance (over $15,000), a stable 'Employed' or 'Self-Employed' status, and a low debt-to-income ratio (under 0.30). They are financially prudent, likely already have a standard checking/savings account, and are looking for a secure place to grow an emergency fund or save for a large purchase.
+
+--------------------------------
+
+Product: Travel Rewards Signature Credit Card
+Description: Our premier credit card offering 3x miles on travel and dining, 1.5x on everything else. Includes a $300 annual travel credit, complimentary airport lounge access worldwide, and premium travel insurance benefits. The card has a $450 annual fee.
+Ideal Customer Profile: Perfect for high-income earners (over $120,000 annually) with an excellent credit score (740+). They have a high digital engagement score, indicating they are comfortable managing finances online. Their profile shows significant spending in travel categories. This is not for customers with high existing credit card debt.
+
+--------------------------------
+
+Product: Free Checking Account
+Description: A basic, no-frills checking account with no monthly maintenance fees and no minimum balance requirement. Includes a free debit card, unlimited transactions, and free access to our network of 30,000+ ATMs. It is a foundational product for daily banking.
+Ideal Customer Profile: Essential for nearly everyone, but especially targeted at students, young adults (age 18-25), or customers with an 'Unemployed' status. It's the perfect first account for someone building their financial history or for anyone who needs a simple, cost-effective way to manage their day-to-day money.
+
+--------------------------------
+
+Product: First-Time Home Buyer Mortgage (FHA Loan)
+Description: A government-insured mortgage product that makes homeownership accessible with a down payment as low as 3.5%. Features flexible credit score requirements and is designed specifically for those who have not owned a home in the last three years.
+Ideal Customer Profile: Targeted at customers aged 25-40 with a stable 'Employed' status and a moderate income ($50,000 - $110,000). Their credit score can be good, not necessarily excellent (620-720). They have a low-to-moderate DTI ratio and likely do not have an existing mortgage product.
+
+--------------------------------
+
+Product: Auto Loan
+Description: A straightforward loan to finance the purchase of a new or used vehicle. Offers competitive, fixed interest rates for predictable monthly payments. We offer flexible terms from 36 to 72 months. Pre-approval can be done online in minutes.
+Ideal Customer Profile: Broadly applicable to customers with a stable income source. The primary factor for the interest rate is the customer's credit score (660+) and their payment history. A lower debt-to-income ratio will secure the best rates.
+
+--------------------------------
+
+Product: Investment Portfolio Starter Account
+Description: An entry-level managed investment account using a diversified portfolio of low-cost ETFs. Requires a minimum opening deposit of just $500. It's designed to help new investors build long-term wealth without the complexity of picking individual stocks.
+Ideal Customer Profile: A customer with a high engagement score and some disposable income (account balance consistently above $5,000). Suitable for any age but ideal for those who have their basic savings established and now want to put their money to work for long-term growth.
+
+--------------------------------
+
+Product: Small Business Checking & Loan Bundle
+Description: An integrated package for entrepreneurs. Includes a business checking account with high transaction limits and a pre-approved credit line up to $25,000. Designed to help manage cash flow and provide immediate access to capital for expansion or inventory.
+Ideal Customer Profile: Specifically for customers with an 'Self-Employed' status and a solid credit history. They likely have a moderate-to-high income generated from their business. This bundle is ideal for a growing business that needs more robust services than a personal account can offer.
+
+--------------------------------
+
+Product: Home Equity Line of Credit (HELOC)
+Description: A revolving credit line that uses the equity in a customer's home as collateral. It's a flexible way to borrow for major expenses like home renovations, education, or consolidating higher-interest debt. The interest rate is variable.
+Ideal Customer Profile: An existing homeowner who already has a mortgage with us or another institution. They are typically aged 35-65 with a good credit score (680+) and have built up significant equity. They have a stable income and a DTI ratio that can support the additional credit line.
+
+--------------------------------
+
+Product: Private Wealth Management Services
+Description: A holistic, white-glove financial advisory service for high-net-worth individuals. Includes personalized investment management, estate planning, tax strategy, and philanthropic guidance. This is a relationship-based service, not a standalone product.
+Ideal Customer Profile: For our most affluent clients, typically with an income over $300,000 and/or an account balance and investments exceeding $1,000,000. They have complex financial needs that go beyond standard banking and investment products. Often older, established professionals or business owners.
+
+--------------------------------
+
+Product: Rollover IRA (Retirement Account)
+Description: A tax-advantaged Individual Retirement Account designed to consolidate old 401(k) or 403(b) accounts from previous employers. This gives the customer more investment choices and centralized control over their retirement savings.
+Ideal Customer Profile: Mid-to-late career professionals (age 30-60) with a stable 'Employed' status who have likely changed jobs one or more times. They want to proactively manage their retirement funds instead of leaving them with a former employer's plan.
